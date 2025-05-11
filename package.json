@@ -1,0 +1,13 @@
+{
+  "name": "mitso-nodejs-cli",
+  "version": "1.0.0",
+  "description": "CLI tool for string encoding and multiplication table tasks",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+} 
